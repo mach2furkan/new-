@@ -1,0 +1,3 @@
+/Users/furkanaskin/Desktop/C Projeler/new horizon /cmake-build-debug/CMakeFiles/new_horizon_.dir
+/Users/furkanaskin/Desktop/C Projeler/new horizon /cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/furkanaskin/Desktop/C Projeler/new horizon /cmake-build-debug/CMakeFiles/rebuild_cache.dir
